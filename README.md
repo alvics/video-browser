@@ -1,2 +1,2 @@
 # React Video Browser App
-## YouTube API
+## Using the YouTube API
